@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "Getting Started": ["getting-started", "something-missing", "site-request", "logging-in", "navigation"],
+    "Basic Concepts": ["basic-concepts", "blocks", "content-types", "menu", "files", "paragraphs", "tags", "views"],
+    "Advanced Guides": [""]
+  },
+  "docs-other": {}
+}
