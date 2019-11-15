@@ -8,8 +8,7 @@ sidebar_label: Navigating the site
 The administration menu is your best tool for quickly navigating to the different administration sections of the website.
 
 ### Dashboard
-The dashboard allows site administrators a nice overview of current site information. You are able to add and remove items from the dashboard. For more information on all the features of the dashboard, please see: 
-https://www.drupal.org/docs/7/core/modules/dashboard/working-with-the-dashboard 
+The dashboard allows site administrators a nice overview of current site information. You are able to add and remove items from the dashboard. For more information on all the features of the dashboard, please see: [Drupal Dashboard](https://www.drupal.org/docs/7/core/modules/dashboard/working-with-the-dashboard)
 
 ### Content
 Clicking the content tab gives you access to all content currently on the site (published or unpublished) as well as a link to add new content.

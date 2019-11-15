@@ -4,4 +4,4 @@ title: Introduction
 sidebar_label: Introduction
 ---
 
-This section will introduce multiple topics on how to manage the different aspects of content moderation and site administration. If you have questions on anything covered in the following sections or would like to know more, please contact the Web Manager.
+This section will introduce multiple topics on how to manage the different aspects of content moderation and site administration. If you have questions on anything covered in the following sections or would like to know more, please contact the [Web Manager](mailto:scott.may14@uky.edu).

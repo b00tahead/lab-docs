@@ -6,9 +6,9 @@ sidebar_label: Paragraphs
 
 Paragraph types are the primary way to add content to pages. There are a variety of paragraph types currently available to site administrators. This list may change in the future as paragraph types are updated, added, or removed. Any changes to paragraph types will me mentioned here.
 
-Most content types will have a field labeled Paragraph type with a dropdown menu. Within the dropdown menu are several options from which to select. Site administrators can add as many paragraph types as needed. Once you have selected a paragraph type to add, select Add another Paragraph. Then the section for that paragraph type will appear and you can customize the fields associated with that paragraph type.
+Most content types will have a field labeled _Paragraph type_ with a dropdown menu. Within the dropdown menu are several options from which to select. Site administrators can add as many paragraph types as needed. Once you have selected a paragraph type to add, select **Add another Paragraph**. Then the section for that paragraph type will appear and you can customize the fields associated with that paragraph type.
 
-Each paragraph item contains a Remove button that will remove the paragraph item from the page. Once you click Remove, select Confirm Deletion to delete the item from the page. To cancel, select Restore.
+Each paragraph item contains a **Remove** button that will remove the paragraph item from the page. Once you click **Remove**, select **Confirm Deletion** to delete the item from the page. To cancel, select **Restore**.
 
 ## Block
 The block paragraph type allows site administrators to add a custom block to a page.
@@ -26,7 +26,7 @@ The button paragraph type inserts a button into the page.
 * Button URL: Set the link for the button
 
 ## Button Grid
-The button grid paragraph type creates a grid of blocks that include an image, some text, and a button. You can create as many buttons in the grid as is needed. To add a new button to the grid, click Add new Button.
+The button grid paragraph type creates a grid of blocks that include an image, some text, and a button. You can create as many buttons in the grid as is needed. To add a new button to the grid, click **Add new Button**.
 
 **Fields**
 * Button
@@ -49,7 +49,8 @@ The full width image paragraph type allows site administrators to add an image t
 **Fields**
 * Image: Upload an image
 * Caption: Add an optional caption to display underneath the limage
-* Link: This field does not currently work
+
+> The _Link_ field does not currently work.
 
 ## Image Grid
 The image grid paragraph type creates a grid of images that can be a varying number of columns.
@@ -66,7 +67,8 @@ The content paragraph type acts like a typical text editor. There are many tools
 
 ## Juicebox Gallery
 The Juicebox gallery paragraph type will create a slideshow gallery that includes thumbnails below the gallery.
-```Alert: This module currently being evaluated and may be replaced (but will not be removed).```
+
+> This module currently being evaluated and may be replaced (but will not be removed).
 
 **Fields**
 * Title: Title of the slideshow gallery
@@ -81,7 +83,7 @@ The question and answer group paragraph type will display as a dropdown for each
     * Answer: Text editor
 
 ## Slider
-The slider paragraph type will allow you to create a slideshow of images that works similar to the Home: Slider block on the front page.
+The slider paragraph type will allow you to create a slideshow of images that works similar to the `Home: Slider` block on the front page.
 
 **Fields**
 * Image: Use the media browser to upload one or more photos or select photos that have already been uploaded
