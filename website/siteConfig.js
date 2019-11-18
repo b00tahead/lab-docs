@@ -79,6 +79,10 @@ const siteConfig = {
     theme: 'default',
   },
 
+  stylesheets: [
+    "https://fonts.googleapis.com/css?family=Nunito+Sans:400,700,900|Oswald:400,700"
+  ],
+
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
 
